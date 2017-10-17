@@ -1,0 +1,66 @@
+.bg {
+	background-color: #8cb27c;
+	width: 1000px;
+	height: 499px;
+	position: relative;
+}
+
+.bgwhite {
+	width: 970px;
+	height: 469px;
+	outline: 5px solid white;
+	position: absolute;
+	top: 15px;
+	left: 15px;
+}
+
+.arco1 {
+	width: 100px;
+	height: 200px;
+	outline: 5px solid white;
+	position: absolute;
+	margin: 130px 0 0 0;
+	
+}
+
+.arco2 {
+	width: 100px;
+	height: 200px;
+	outline: 5px solid white;
+	position: absolute;
+	margin: 130px 0 0 870px;
+}
+
+.centrocancha {
+	width: 200px;
+    height: 200px;
+    -moz-border-radius: 70%;
+    -webkit-border-radius: 70%;
+    border-radius: 70%;
+	border: 5px solid white;
+    position: absolute;
+    margin: 130px 0 0 400px;
+}
+
+.circle {
+	width: 20px;
+    height: 20px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    position: absolute;
+    background-color: white;
+    filter: drop-shadow(2px 2px 1px #444); /*sombra*/
+}
+
+.small-1 {
+    margin: 60px 0 0 500px;
+}
+
+.small-2 {
+    margin: 128px 0 0 85px;
+}
+
+.small-3 {
+    margin: 300px 0 0 835px;
+}
